@@ -1,5 +1,4 @@
 import { Component, AfterViewInit } from '@angular/core';
-// import { ShepherdService } from '..//shepherd/src/lib/shepherd.service';
 import { ShepherdService } from '../proj/shepherd/src/lib/shepherd.service';
 import { steps as defaultSteps, defaultStepOptions} from '../data';
 

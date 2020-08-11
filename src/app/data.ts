@@ -29,7 +29,7 @@ export const defaultStepOptions = {
 export const steps = [
   {
     attachTo: {
-      element: '.first-element',
+      element: '.material-icons',
       on: 'bottom'
     },
     buttons: [
@@ -54,7 +54,7 @@ export const steps = [
   },
   {
     attachTo: {
-      element: '.install-element',
+      element: '.cli-documentation',
       on: 'bottom'
     },
     buttons: [
@@ -69,7 +69,7 @@ export const steps = [
   },
   {
     attachTo: {
-      element: '.usage-element',
+      element: '.angular-blog',
       on: 'bottom'
     },
     buttons: [
@@ -84,7 +84,7 @@ export const steps = [
   },
   {
     attachTo: {
-      element: '.modal-element',
+      element: '.build-for-production',
       on: 'top'
     },
     buttons: [
@@ -105,7 +105,7 @@ export const steps = [
   },
   {
     attachTo: {
-      element: '.built-in-buttons-element',
+      element: '.github-star-badge',
       on: 'top'
     },
     buttons: [
