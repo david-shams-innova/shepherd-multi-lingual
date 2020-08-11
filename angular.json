@@ -25,8 +25,7 @@
             ],
             "styles": [
               "src/styles.css",
-              "node_modules/shepherd.js/dist/css/shepherd.css"
-            ],
+              "node_modules/shepherd.js/dist/css/shepherd.css"            ],
             "scripts": []
           },
           "configurations": {

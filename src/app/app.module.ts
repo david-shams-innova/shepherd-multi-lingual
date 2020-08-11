@@ -5,12 +5,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ShepherdComponent } from './shepherd/shepherd.component';
 import { RouterModule } from '@angular/router';
+import { NavbarComponent } from './navbar/navbar.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    ShepherdComponent
+    ShepherdComponent,
+    NavbarComponent
   ],
   imports: [
     BrowserModule,
